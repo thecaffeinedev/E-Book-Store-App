@@ -15,11 +15,11 @@ I will keep updating the tasks while building the app.
 2. ####  Creating Database Models
 
    - [x] Setting Up Mongoose
-- [x] Creating Basic Schema for User
+   - [x] Creating Basic Schema for User
    - [x] Creating Schema Methods
-- [x] Creating Category Schema
+   - [x] Creating Category Schema
    - [x] Creating Product Schema
-- [x] Creating Order Schema
+   - [x] Creating Order Schema
    
 3. #### Database Connectivity 
 
