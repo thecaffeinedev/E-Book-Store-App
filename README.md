@@ -39,10 +39,10 @@ I will keep updating the tasks while building the app.
 
 4. #### Middleware And Initial Routes
 
-     - [ ] Router in express
-     - [ ] Using Postman for our POST routes
-     - [ ] Saving a user to a database
-     - [ ] validation in routes
+     - [x] Router in express
+     - [x] Using Postman for our POST routes
+     - [x] Saving a user to a database
+     - [x] validation in routes
 
      
 
