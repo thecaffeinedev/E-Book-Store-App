@@ -39,7 +39,7 @@ I will keep updating the tasks while building the app.
 
 5. #### Authentication Routes And Token
 
-     - [ ] Creating signin route
-     - [ ] sending token & testing with Postman
-     - [ ] Bearer and signin routes
+     - [x] Creating signin route
+     - [x] sending token & testing with Postman
+     - [x] Bearer and signin routes
      - [ ] Protecting a route
