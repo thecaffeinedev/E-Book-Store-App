@@ -9,28 +9,23 @@ I will keep updating the tasks while building the app.
 
 1. #### Getting Started
 
-     - [ ] Project Initialize 
-     - [ ] Basic Server setup with express, Nodemon
+     - [x] Project Initialize 
+     - [x] Basic Server setup with express, Nodemon
 
 2. ####  Creating Database Models
 
-   - [ ] Setting Up Mongoose
-
-   - [ ] Creating Basic Schema for User
-
-   - [ ] Creating Schema Methods
-
-   - [ ] Creating Category Schema
-
-   - [ ] Creating Product Schema
-
+   - [x] Setting Up Mongoose
+- [x] Creating Basic Schema for User
+   - [x] Creating Schema Methods
+- [x] Creating Category Schema
+   - [x] Creating Product Schema
+- [x] Creating Order Schema
+   
 3. #### Database Connectivity 
 
      - [ ] MongoDB Connection
 
-     - [ ] Configuring Environment Variables
-
-          
+     - [ ] Configuring Environment Variables   
 
 4. #### Middleware And Initial Routes
 
