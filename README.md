@@ -40,6 +40,33 @@ I will keep updating the tasks while building the app.
 5. #### Authentication Routes And Token
 
      - [x] Creating signin route
+     
      - [x] sending token & testing with Postman
+     
      - [x] Bearer and signin routes
+     
      - [ ] Protecting a route
+     
+6. #### Params, User Controllers & Categories
+
+     - [ ] Getting ID from Param
+     - [ ] Handling user route
+     - [ ] Get all user & update user (PUT request)
+     - [ ] Custom middleware
+     - [ ] Create category and save
+     - [ ] Category Param, getting all category
+     - [ ] Updating the collection
+     - [ ] Performing delete operation (Delete request)
+     - [ ] Testing All routes
+
+     
+
+
+​     
+​       
+​     
+​       
+​     
+​       
+​     
+​       
