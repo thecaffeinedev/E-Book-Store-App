@@ -28,15 +28,6 @@ I will keep updating the tasks while building the app.
      - [x] MongoDB Connection
      - [x] Configuring Environment Variables   
 
-       I have created a `.env ` file. It allows us to put your environment variables inside a file. It is not being   pushed to Github so, you must create that file on your own.
-
-     ```sh
-     DATABASE=mongodb://localhost:27017/ebook
-     SECRET=prabhat
-     ```
-
-     
-
 4. #### Middleware And Initial Routes
 
      - [x] Router in express
