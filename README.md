@@ -53,11 +53,11 @@ I will keep updating the tasks while building the app.
      - [x] Handling user route
      - [x] Get all user & update user (PUT request)
      - [x] Custom middleware
-     - [ ] Create category and save
-     - [ ] Category Param, getting all category
-     - [ ] Updating the collection
-     - [ ] Performing delete operation (Delete request)
-     - [ ] Testing All routes
+     - [x] Create category and save
+     - [x] Category Param, getting all category
+     - [x] Updating the collection
+     - [x] Performing delete operation (Delete request)
+     - [x] Testing All routes
 
      
 
