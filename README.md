@@ -58,15 +58,18 @@ I will keep updating the tasks while building the app.
      - [x] Updating the collection
      - [x] Performing delete operation (Delete request)
      - [x] Testing All routes
-
      
+7. #### Adding Products & CRUD, Image Upload
 
+     - [ ] Adding Products, Getting Products by ID
+     - [ ] Saving Photo in MongoDB
+     - [ ] Update, Delete Product
+     - [ ] Getting All Products
+     - [ ] Updating Inventory
 
-​     
-​       
-​     
-​       
-​     
-​       
-​     
-​       
+8. #### Dealing With Order & Stuff     
+
+     - [ ] Create Order, Get Order By ID
+     - [ ] Update Order
+     - [ ] Update Order Status
+
