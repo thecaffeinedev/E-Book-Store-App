@@ -45,7 +45,7 @@ I will keep updating the tasks while building the app.
      
      - [x] Bearer and signin routes
      
-     - [ ] Protecting a route
+     - [x] Protecting a route
      
 6. #### Params, User Controllers & Categories
 
