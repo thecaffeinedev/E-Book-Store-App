@@ -67,9 +67,14 @@ I will keep updating the tasks while building the app.
      - [x] Getting All Products
      - [x] Updating Inventory
 
-8. #### Dealing With Order & Stuff     
+8. #### Dealing With Order & Stuff, Admin Auth     
 
      - [x] Create Order, Get Order By ID
      - [x] Update Order
      - [x] Update Order Status
+     - [ ] Admin Auth
+     
+     
+
+
 
