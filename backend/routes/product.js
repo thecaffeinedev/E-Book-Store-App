@@ -11,7 +11,7 @@ const {
   getAllProducts,
   getAllUniqueCategories
 } = require("../controllers/product");
-const { isSignedIn} = require("../controllers/auth");
+const { isSignedIn, isAuthenticated, isAdmin } = require("../controllers/auth");
 const { getUserById } = require("../controllers/user");
 
 //all of params
@@ -22,6 +22,9 @@ router.param("productId", getProductById);
 //create route
 router.post(
   "/product/create/:userId",
+  isSignedIn,
+  isAuthenticated,
+  isAdmin,
   createProduct
 );
 
@@ -32,12 +35,18 @@ router.get("/product/photo/:productId", photo);
 //delete route
 router.delete(
   "/product/:productId/:userId",
+  isSignedIn,
+  isAuthenticated,
+  isAdmin,
   deleteProduct
 );
 
 //update route
 router.put(
   "/product/:productId/:userId",
+  isSignedIn,
+  isAuthenticated,
+  isAdmin,
   updateProduct
 );
 
