@@ -61,15 +61,15 @@ I will keep updating the tasks while building the app.
      
 7. #### Adding Products & CRUD, Image Upload
 
-     - [ ] Adding Products, Getting Products by ID
-     - [ ] Saving Photo in MongoDB
-     - [ ] Update, Delete Product
-     - [ ] Getting All Products
-     - [ ] Updating Inventory
+     - [x] Adding Products, Getting Products by ID
+     - [x] Saving Photo in MongoDB
+     - [x] Update, Delete Product
+     - [x] Getting All Products
+     - [x] Updating Inventory
 
 8. #### Dealing With Order & Stuff     
 
-     - [ ] Create Order, Get Order By ID
-     - [ ] Update Order
-     - [ ] Update Order Status
+     - [x] Create Order, Get Order By ID
+     - [x] Update Order
+     - [x] Update Order Status
 
