@@ -76,36 +76,36 @@ I will keep updating the tasks while building the app.
 
 9. #### Building React Front-end
    
-   - [ ] Creating React Application
-   - [ ] Removing Error and Adding some css
-   - [ ] Connecting Backend to front-end
-   - [ ] Adding NavBar, Styling the navbar
-   - [ ] Routes for SignUp & SignIn
-   - [ ] SignIn & SignUp Form
-   - [ ] Authentication Helper
-   - [ ] Testing the signup route
+   - [x] Creating React Application
+   - [x] Removing Error and Adding some css
+   - [x] Connecting Backend to front-end
+   - [x] Adding NavBar, Styling the navbar
+   - [x] Routes for SignUp & SignIn
+   - [x] SignIn & SignUp Form
+   - [x] Authentication Helper
+   - [x] Testing the signup route
    
 10. #### More into Front-end
 
-     - [ ] Restriction on routes
+     - [x] Restriction on routes
 
-        1. [ ] Admin & User Routes 
-        2. [ ] Admin Dashboard
-        3. [ ] Designing Admin Panel
-        4. [ ] Adding Category routes 
-        5. [ ] CRUD operation for Category
-        6. [ ] CRUD operation for Product
-        7. [ ] Minor changes
-        8. [ ] Designing the Cards & Homepage
-        9. [ ] UI for Cart Page
-        10. [ ] Order Helpers
-        11. [ ] Finishing Front-end
+     - [x] Admin & User Routes 
+     - [x] Admin Dashboard
+     - [x] Designing Admin Panel
+     - [x] Adding Category routes 
+     - [x] CRUD operation for Category
+     - [x] CRUD operation for Product
+     - [x] Minor changes
+     - [x] Designing the Cards & Homepage
+     - [x] UI for Cart Page
+     - [x] Order Helpers
+     - [x] Finishing Front-end
 
 11. ####  Payment Gateway Integration
 
-    - [ ] Stripe Payment gateway
-    - [ ] Testing the site
-    - [ ] Finishing touch
+    - [x] Stripe Payment gateway
+    - [x] Testing the site
+    - [x] Finishing touch
 
    
 
