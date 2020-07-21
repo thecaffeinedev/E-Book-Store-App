@@ -14,7 +14,7 @@ const Card = ({
   const [redirect, setRedirect] = useState(false);
   const [count, setCount] = useState(product.count);
 
-  const cartTitle = product ? product.name : "A photo from pexels";
+  const cartTitle = product ? product.name : "A photo";
   const cartDescrption = product ? product.description : "Default description";
   const cartPrice = product ? product.price : "DEFAULT";
 

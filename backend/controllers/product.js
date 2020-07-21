@@ -54,7 +54,7 @@ exports.createProduct = (req, res) => {
     product.save((err, product) => {
       if (err) {
         res.status(400).json({
-          error: "Saving tshirt in DB failed"
+          error: "Saving E-Book in DB failed"
         });
       }
       res.json(product);
